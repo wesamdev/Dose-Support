@@ -3,6 +3,14 @@
         {"name": "Persil", "supports_israel": true},
         {"name": "intel", "supports_israel": true},
         {"name": "McDonald", "supports_israel": true},
-        {"name": "kfc", "supports_israel":true}
+        {"name": "kfc", "supports_israel":true},
+        {"name": "fiverr", "supports_israel":true},
+        {"name": "pepsi", "supports_israel":true},
+        {"name": "lipton", "supports_israel":true},
+        {"name": "mountain dew", "supports_israel":true},
+        {"name": "twix", "supports_israel":true},
+        {"name": "galaxy", "supports_israel":true},
+        {"name": "Nestlé", "supports_israel":true},
+        {"name": "Nestle", "supports_israel":true}
     ]
 }
