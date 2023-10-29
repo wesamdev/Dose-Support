@@ -13,6 +13,12 @@
         {"name": "Nestlé", "supports_israel":true},
         {"name": "Nestle", "supports_israel":true},
         {"name":"Airbnb","supports_israel":true},
-        {"name":"lays","supports_israel":true}
+        {"name":"lays","supports_israel":true},
+        {"name":"Dove","supports_israel":true},
+        {"name":"Prima","supports_israel":true},
+        {"name":"Dettol","supports_israel":true},
+        {"name":"Disney","supports_israel":true},
+        {"name":"Clear","supports_israel":true},
+        {"name":"Booking.com","supports_israel":true}
     ]
 }
