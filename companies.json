@@ -2,9 +2,7 @@
     "companies": [
         {"name": "Persil", "supports_israel": true},
         {"name": "intel", "supports_israel": true},
-        {"name": "Persil", "supports_israel": true},
-        {"name": "Persil", "supports_israel": true},
-        {"name": "Persil", "supports_israel": true},
-        {"name": "Persil", "supports_israel": true}
+        {"name": "McDonald", "supports_israel": true},
+        {"name": "kfc", "supports_israel":true}
     ]
 }
