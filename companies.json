@@ -11,6 +11,8 @@
         {"name": "twix", "supports_israel":true},
         {"name": "galaxy", "supports_israel":true},
         {"name": "Nestlé", "supports_israel":true},
-        {"name": "Nestle", "supports_israel":true}
+        {"name": "Nestle", "supports_israel":true},
+        {"name":"Airbnb","supports_israel":true},
+        {"name":"lays","supports_israel":true}
     ]
 }
