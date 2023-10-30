@@ -19,6 +19,7 @@
         {"name":"Dettol","supports_israel":true},
         {"name":"Disney","supports_israel":true},
         {"name":"Clear","supports_israel":true},
-        {"name":"Booking.com","supports_israel":true}
+        {"name":"Booking.com","supports_israel":true},
+        {"name":"Starbucks","supports_israel":true}
     ]
 }
