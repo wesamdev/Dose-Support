@@ -1,6 +1,3 @@
-// this json under mit license
-// made by wesamdev
-
 {
     "companies": [
         {"name": "Persil", "supports_israel": true},
