@@ -19,9 +19,9 @@
             <li>
                 {{ result.name }} - Supports Israel: 
                 {% if result.supports_israel %}
-                    <span class="text-success">Yes</span>
+                    <span class="text-danger">Yes</span>
                 {% else %}
-                    <span class="text-danger">No</span>
+                    <span class="text-success">No</span>
                 {% endif %}
             </li>
         {% endfor %}

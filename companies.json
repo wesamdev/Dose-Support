@@ -109,7 +109,61 @@
         {"name":"wallmart","supports_israel":true},
         {"name":"tesco","supports_israel":true},
         {"name":"galderma","supports_israel":true},
-        {"name":"unilever","supports_israel":true}
+        {"name":"unilever","supports_israel":true},
+        {"name":"h&m","supports_israel":true},
+        {"name":"nike","supports_israel":true},
+        {"name":"danone","supports_israel":true},
+        {"name":"henkel","supports_israel":true},
+        {"name":"kelloggis","supports_israel":true},
+        {"name":"hp","supports_israel":true},
+        {"name":"Hewlett Packard","supports_israel":true},
+        {"name":"Hewlett-Packard","supports_israel":true},
+        {"name":"philips","supports_israel":true},
+        {"name":"sandisk","supports_israel":true},
+        {"name":"lacoste","supports_israel":true},
+        {"name":"becel","supports_israel":true},
+        {"name":"clave","supports_israel":true},
+        {"name":"capital one","supports_israel":true},
+        {"name":"cappy","supports_israel":true},
+        {"name":"chiquita","supports_israel":true},
+        {"name":"coca cola","supports_israel":true},
+        {"name":"crayola","supports_israel":true},
+        {"name":"damla","supports_israel":true},
+        {"name":"domestos","supports_israel":true},
+        {"name":"americana","supports_israel":true},
+        {"name":"loreal","supports_israel":true},
+        {"name":"pepsico","supports_israel":true},
+        {"name":"p&g","supports_israel":true},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {"name":"bambi","supports_israel":false},
+        {"name":"giglles","supports_israel":false},
+        {"name":"bahar","supports_israel":false},
+        {"name":"QV","supports_israel":false}
+
 
     ]
 }
