@@ -14,18 +14,30 @@
     <h1>Search Results</h1>
 
     {% if results %}
-    <ul>
-        {% for result in results %}
-            <li>
-                {{ result.name }} - Supports Israel: 
-                {% if result.supports_israel %}
-                    <span class="text-danger">Yes</span>
-                {% else %}
-                    <span class="text-success">No</span>
-                {% endif %}
-            </li>
-        {% endfor %}
-    </ul>
+    <table class="table mt-3">
+        <thead>
+            <tr>
+                <th scope="col">Company Name</th>
+                <th scope="col">Supports Israel</th>
+                <th scope="col">Category</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for result in results %}
+                <tr>
+                    <td>{{ result.name }}</td>
+                    <td>
+                        {% if result.supports_israel %}
+                            <span class="text-danger">Yes</span>
+                        {% else %}
+                            <span class="text-success">No</span>
+                        {% endif %}
+                    </td>
+                    <td>{{ result.category }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
     {% else %}
     <p>No results found.</p>
     {% endif %}

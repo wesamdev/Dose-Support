@@ -139,10 +139,26 @@
 
 
 
-    {"name": "Bambi", "supports_israel": false, "category": "Baby Food"},
-    {"name": "Giglles", "supports_israel": false, "category": "Baby Food"},
+    {"name": "Bambi", "supports_israel": false, "category": "Baby care"},
+    {"name": "Giglles", "supports_israel": false, "category": "Baby care"},
     {"name": "Bahar", "supports_israel": false, "category": "Consumer Goods"},
-    {"name": "QV", "supports_israel": false, "category": "Personal Care"}
+    {"name": "QV", "supports_israel": false, "category": "Personal Care"},
+    {"name":"almarai", "supports_israel":false, "category":"Food"},
+    {"name":"Mazoon", "supports_israel":false, "category":"Food"},
+    {"name":"Nunu", "supports_israel":false, "category":"Baby Care"},
+    {"name":"Farah", "supports_israel":false, "category":"Personal Care"},
+    {"name":"Atyap", "supports_israel":false, "category":"Food"},
+    {"name":"Al wali", "supports_israel":false, "category":"Food"},
+    {"name":"Nakha", "supports_israel":false, "category":"Food"},
+    {"name":"Al Qala'a", "supports_israel":false, "category":"Food"},
+    {"name":"Diwan", "supports_israel":false, "category":"Food"},
+    {"name":"Rana", "supports_israel":false, "category":"Food"},
+    {"name":"Al bustan", "supports_israel":false, "category":"Food"},
+    {"name":"zade", "supports_israel":false, "category":"Food"},
+    {"name":"Al istuqama", "supports_israel":false, "category":"Food"},
+    {"name":"Al watania", "supports_israel":false, "category":"Food"},
+    {"name":"Cocos", "supports_israel":false, "category":"Food"},
+    {"name":"Dhofar", "supports_israel":false, "category":"Food"}
 
 
 
