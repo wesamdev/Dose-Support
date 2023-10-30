@@ -19,7 +19,7 @@
 
 <ul>
     {% for category in categories %}
-        <li><a href="{{ url_for('index') }}?category={{ category }}">{{ category }}</a></li>
+        <li><a href="{{ url_for('search', category=category) }}">{{ category }}</a></li>
     {% endfor %}
 </ul>
 
