@@ -1,0 +1,170 @@
+{
+    "companies": [
+        {"name": "Persil", "supports_israel": true ,"category": "Technology" },
+        {"name": "intel", "supports_israel": true,"category": "Technology"},
+        {"name": "McDonald", "supports_israel": true,"category": "Technology"},
+        {"name": "kfc", "supports_israel":true,"category": "Technology"},
+        {"name": "fiverr", "supports_israel":true,"category": "Technology"},
+        {"name": "pepsi", "supports_israel":true,"category": "Technology"},
+        {"name": "lipton", "supports_israel":true,"category": "Technology"},
+        {"name": "mountain dew", "supports_israel":true,"category": "Technology"},
+        {"name": "twix", "supports_israel":true,"category": "Technology"},
+        {"name": "galaxy", "supports_israel":true,"category": "Technology"},
+        {"name": "Nestlé", "supports_israel":true,"category": "Technology"},
+        {"name":"Airbnb","supports_israel":true,"category": "Technology"},
+        {"name":"lay's","supports_israel":true,"category": "Technology"},
+        {"name":"Dove","supports_israel":true,"category": "Technology"},
+        {"name":"Prima","supports_israel":true,"category": "Technology"},
+        {"name":"Dettol","supports_israel":true,"category": "Technology"},
+        {"name":"Disney","supports_israel":true,"category": "Technology"},
+        {"name":"Clear","supports_israel":true,"category": "Technology"},
+        {"name":"Booking.com","supports_israel":true,"category": "Technology"},
+        {"name":"Starbucks","supports_israel":true,"category": "Technology"},
+        {"name":"burger king","supports_israel":true,"category": "Technology"},
+        {"name":"pizza hut","supports_israel":true,"category": "Technology"},
+        {"name":"hardees","supports_israel":true,"category": "Technology"},
+        {"name":"sub way","supports_israel":true,"category": "Technology"},
+        {"name":"wimpy","supports_israel":true,"category": "Technology"},
+        {"name":"tgi friday's","supports_israel":true,"category": "Technology"},
+        {"name":"papa john's","supports_israel":true,"category": "Technology"},
+        {"name":"dominos pizza","supports_israel":true,"category": "Technology"},
+        {"name":"marks & spenc","supports_israel":true,"category": "Technology"},
+        {"name":"haagen dazs","supports_israel":true,"category": "Technology"},
+        {"name":"marks & spenc","supports_israel":true,"category": "Technology"},
+        {"name":"kikat","supports_israel":true,"category": "Technology"},
+        {"name":"m&m's","supports_israel":true,"category": "Technology"},
+        {"name":"extra","supports_israel":true,"category": "Technology"},
+        {"name":"skittles","supports_israel":true,"category": "Technology"},
+        {"name":"starburst","supports_israel":true,"category": "Technology"},
+        {"name":"spearmint","supports_israel":true,"category": "Technology"},
+        {"name":"maltesers","supports_israel":true,"category": "Technology"},
+        {"name":"snickers","supports_israel":true,"category": "Technology"},
+        {"name":"knorr","supports_israel":true,"category": "Technology"},
+        {"name":"orbit","supports_israel":true,"category": "Technology"},
+        {"name":"mars","supports_israel":true,"category": "Technology"},
+        {"name":"pringle's","supports_israel":true,"category": "Technology"},
+        {"name":"cheetos","supports_israel":true,"category": "Technology"},
+        {"name":"bounty","supports_israel":true,"category": "Technology"},
+        {"name":"toblerone","supports_israel":true,"category": "Technology"},
+        {"name":"aquafina","supports_israel":true,"category": "Technology"},
+        {"name":"gatorade","supports_israel":true,"category": "Technology"},
+        {"name":"tropicana","supports_israel":true,"category": "Technology"},
+        {"name":"7up","supports_israel":true,"category": "Technology"},
+        {"name":"naked juice","supports_israel":true,"category": "Technology"},
+        {"name":"miranda","supports_israel":true,"category": "Technology"},
+        {"name":"sierra mist","supports_israel":true,"category": "Technology"},
+        {"name":"doritos","supports_israel":true,"category": "Technology"},
+        {"name":"tostitos","supports_israel":true,"category": "Technology"},
+        {"name":"fritos","supports_israel":true,"category": "Technology"},
+        {"name":"ruffles","supports_israel":true,"category": "Technology"},
+        {"name":"walkers","supports_israel":true,"category": "Technology"},
+        {"name":"quaker oats","supports_israel":true,"category": "Technology"},
+        {"name":"sabra","supports_israel":true,"category": "Technology"},
+        {"name":"schweppes","supports_israel":true,"category": "Technology"},
+        {"name":"aquarius","supports_israel":true,"category": "Technology"},
+        {"name":"dr pepper","supports_israel":true,"category": "Technology"},
+        {"name":"fanta","supports_israel":true,"category": "Technology"},
+        {"name":"sprite","supports_israel":true,"category": "Technology"},
+        {"name":"dasani","supports_israel":true,"category": "Technology"},
+        {"name":"georgia","supports_israel":true,"category": "Technology"},
+        {"name":"fresca","supports_israel":true,"category": "Technology"},
+        {"name":"costa coffee","supports_israel":true,"category": "Technology"},
+        {"name":"maggi","supports_israel":true,"category": "Technology"},
+        {"name":"nescafe","supports_israel":true,"category": "Technology"},
+        {"name":"milo","supports_israel":true,"category": "Technology"},
+        {"name":"nido","supports_israel":true,"category": "Technology"},
+        {"name":"gerber","supports_israel":true,"category": "Technology"},
+        {"name":"purina","supports_israel":true,"category": "Technology"},
+        {"name":"coffe mate","supports_israel":true,"category": "Technology"},
+        {"name":"nestea","supports_israel":true,"category": "Technology"},
+        {"name":"nesquick","supports_israel":true,"category": "Technology"},
+        {"name":"stouffer's","supports_israel":true,"category": "Technology"},
+        {"name":"carnation","supports_israel":true,"category": "Technology"},
+        {"name":"cheerios","supports_israel":true,"category": "Technology"},
+        {"name":"leane cusine","supports_israel":true,"category": "Technology"},
+        {"name":"perrier","supports_israel":true,"category": "Technology"},
+        {"name":"pantene","supports_israel":true,"category": "Technology"},
+        {"name":"ariel","supports_israel":true,"category": "Technology"},
+        {"name":"pampers","supports_israel":true,"category": "Technology"},
+        {"name":"gillette","supports_israel":true,"category": "Technology"},
+        {"name":"head & shoulders","supports_israel":true,"category": "Technology"},
+        {"name":"tide","supports_israel":true,"category": "Technology"},
+        {"name":"oral b","supports_israel":true,"category": "Technology"},
+        {"name":"crest","supports_israel":true,"category": "Technology"},
+        {"name":"braun","supports_israel":true,"category": "Technology"},
+        {"name":"clean & clear","supports_israel":true,"category": "Technology"},
+        {"name":"leggo","supports_israel":true,"category": "Technology"},
+        {"name":"cerelac","supports_israel":true,"category": "Technology"},
+        
+        {"name":"kotex","supports_israel":true,"category": "Technology"},
+        {"name":"tampax","supports_israel":true,"category": "Technology"},
+        {"name":"always","supports_israel":true,"category": "Technology"},
+        {"name":"kleenex","supports_israel":true,"category": "Technology"},
+        {"name":"life buoy","supports_israel":true,"category": "Technology"},
+        {"name":"life boy","supports_israel":true,"category": "Technology"},
+        {"name":"nivea","supports_israel":true,"category": "Technology"},
+        {"name":"amazon","supports_israel":true,"category": "Technology"},
+        {"name":"carrfour","supports_israel":true,"category": "Technology"},
+        {"name":"american express","supports_israel":true,"category": "Technology"},
+        {"name":"walmart","supports_israel":true,"category": "Technology"},
+        {"name":"wallmart","supports_israel":true,"category": "Technology"},
+        {"name":"tesco","supports_israel":true,"category": "Technology"},
+        {"name":"galderma","supports_israel":true,"category": "Technology"},
+        {"name":"unilever","supports_israel":true,"category": "Technology"},
+        {"name":"h&m","supports_israel":true,"category": "Technology"},
+        {"name":"nike","supports_israel":true,"category": "Technology"},
+        {"name":"danone","supports_israel":true,"category": "Technology"},
+        {"name":"henkel","supports_israel":true,"category": "Technology"},
+        {"name":"kelloggis","supports_israel":true,"category": "Technology"},
+        {"name":"hp","supports_israel":true,"category": "Technology"},
+        {"name":"Hewlett Packard","supports_israel":true,"category": "Technology"},
+        {"name":"Hewlett-Packard","supports_israel":true,"category": "Technology"},
+        {"name":"philips","supports_israel":true,"category": "Technology"},
+        {"name":"sandisk","supports_israel":true,"category": "Technology"},
+        {"name":"lacoste","supports_israel":true,"category": "Technology"},
+        {"name":"becel","supports_israel":true,"category": "Technology"},
+        {"name":"clave","supports_israel":true,"category": "Technology"},
+        {"name":"capital one","supports_israel":true,"category": "Technology"},
+        {"name":"cappy","supports_israel":true,"category": "Technology"},
+        {"name":"chiquita","supports_israel":true,"category": "Technology"},
+        {"name":"coca cola","supports_israel":true,"category": "Technology"},
+        {"name":"crayola","supports_israel":true,"category": "Technology"},
+        {"name":"damla","supports_israel":true,"category": "Technology"},
+        {"name":"domestos","supports_israel":true,"category": "Technology"},
+        {"name":"americana","supports_israel":true,"category": "Technology"},
+        {"name":"loreal","supports_israel":true,"category": "Technology"},
+        {"name":"pepsico","supports_israel":true,"category": "Technology"},
+        {"name":"p&g","supports_israel":true,"category": "Technology"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {"name":"bambi","supports_israel":false,"category": "Technology"},
+        {"name":"giglles","supports_israel":false,"category": "Technology"},
+        {"name":"bahar","supports_israel":false,"category": "Technology"},
+        {"name":"QV","supports_israel":false,"category": "Technology"}
+
+
+    ]
+}

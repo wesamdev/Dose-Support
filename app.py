@@ -7,20 +7,34 @@ app = Flask(__name__)
 with open('companies.json', 'r') as f:
     data = json.load(f)
 
+# Extract a list of unique categories from the data
+categories = set(company['category'] for company in data['companies'])
+
 @app.route('/')
 def index():
-    return render_template('index.html', results=None)
+    return render_template('index.html', results=None, categories=categories)
 
 @app.route('/search', methods=['POST'])
 def search():
     query = request.form.get('query')
+    selected_category = request.form.get('category')
 
-    # Perform a simple search
-    results = [camp for camp in data['companies'] if query.lower() in camp['name'].lower()]
-    print(results)
+    # Perform a search with category filtering
+    if selected_category:
+        results = [camp for camp in data['companies'] if
+                   query.lower() in camp['name'].lower() and
+                   selected_category == camp['category']]
+    else:
+        results = [camp for camp in data['companies'] if
+                   query.lower() in camp['name'].lower()]
 
-    return render_template('search_results.html', results=results)
+    return render_template('search_results.html', results=results, categories=categories)
 
+@app.route('/list')
+def category_list():
+    return render_template('list.html', categories=categories)
+
+# Redirect to home if someone tries to access the search route with an unsupported method
 @app.route('/search', methods=['GET'])
 def search_redirect():
     return redirect(url_for('index'))
