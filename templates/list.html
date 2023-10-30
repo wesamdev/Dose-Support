@@ -17,11 +17,18 @@
 
 <h1>Categories List</h1>
 
-<ul>
-    {% for category in categories %}
-        <li><a href="{{ url_for('search', category=category) }}">{{ category }}</a></li>
-    {% endfor %}
-</ul>
+<form method="post" action="{{ url_for('search') }}">
+    <ul>
+        {% for category in categories %}
+            <li>
+                <button type="submit" name="category" value="{{ category }}" class="btn btn-link">{{ category }}</button>
+            </li>
+        {% endfor %}
+    </ul>
+</form>
+
+<!-- Button to go back to the home page -->
+<a href="{{ url_for('index') }}" class="btn btn-primary mt-3">Back to Home</a>
 
 <!-- Footer -->
 <footer class="mt-5 text-center">

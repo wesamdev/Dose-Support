@@ -20,15 +20,19 @@ def search():
     selected_category = request.form.get('category')
 
     # Perform a search with category filtering
+    if query is not None:
+        query = query.lower()
+
     if selected_category:
         results = [camp for camp in data['companies'] if
-                   query.lower() in camp['name'].lower() and
-                   selected_category == camp['category']]
+                   'name' in camp and camp['name'] and (query is None or query in camp['name'].lower()) and
+                   'category' in camp and camp['category'] == selected_category]
     else:
         results = [camp for camp in data['companies'] if
-                   query.lower() in camp['name'].lower()]
+                   'name' in camp and camp['name'] and (query is None or query in camp['name'].lower())]
 
     return render_template('search_results.html', results=results, categories=categories)
+
 
 @app.route('/list')
 def category_list():
