@@ -158,7 +158,9 @@
     {"name":"Al istuqama", "supports_israel":false, "category":"Food"},
     {"name":"Al watania", "supports_israel":false, "category":"Food"},
     {"name":"Cocos", "supports_israel":false, "category":"Food"},
-    {"name":"Dhofar", "supports_israel":false, "category":"Food"}
+    {"name":"Dhofar", "supports_israel":false, "category":"Food"},
+    {"name":"Mumtaz", "supports_israel":false, "category":"Tea"}
+
 
 
 
