@@ -132,12 +132,22 @@
     {"name": "L'Oreal", "supports_israel": true, "category": "Beauty"},
     {"name": "PepsiCo", "supports_israel": true, "category": "Food"},
     {"name": "P&G", "supports_israel": true, "category": "Consumer Goods"},
+    {"name": "Rani", "supports_israel": true, "category": "Beverages"},
+    {"name": "vimto", "supports_israel": true, "category": "Beverages"},
+    {"name": "mentos", "supports_israel": true, "category": "Snacks"},
+    {"name": "Nutella", "supports_israel": true, "category": "Food"},
+    {"name": "Kinder", "supports_israel": true, "category": "Snacks"},
+    {"name": "Shani", "supports_israel": true, "category": "Beverages"},
+    {"name": "heniz", "supports_israel": true, "category": "Food"},
+    {"name": "hellmann's", "supports_israel": true, "category": "Food"},
+    {"name": "Tang", "supports_israel": true, "category": "Beverages"},
 
 
 
 
 
 
+    {"name": "Alicafe", "supports_israel": false, "category": "Coffee"},
     {"name": "Bambi", "supports_israel": false, "category": "Baby Care"},
     {"name": "Giglles", "supports_israel": false, "category": "Baby Care"},
     {"name": "Bahar", "supports_israel": false, "category": "Consumer Goods"},
