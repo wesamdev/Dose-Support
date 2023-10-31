@@ -20,6 +20,9 @@
 <form method="post" action="{{ url_for('search') }}">
     <ul>
         {% for category in categories %}
+        <li>
+            <button type="submit" name="category" value="" class="btn btn-link">All Categories</button>
+        </li>
             <li>
                 <button type="submit" name="category" value="{{ category }}" class="btn btn-link">{{ category }}</button>
             </li>
