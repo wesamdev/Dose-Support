@@ -139,8 +139,8 @@
 
 
 
-    {"name": "Bambi", "supports_israel": false, "category": "Baby care"},
-    {"name": "Giglles", "supports_israel": false, "category": "Baby care"},
+    {"name": "Bambi", "supports_israel": false, "category": "Baby Care"},
+    {"name": "Giglles", "supports_israel": false, "category": "Baby Care"},
     {"name": "Bahar", "supports_israel": false, "category": "Consumer Goods"},
     {"name": "QV", "supports_israel": false, "category": "Personal Care"},
     {"name":"almarai", "supports_israel":false, "category":"Food"},
